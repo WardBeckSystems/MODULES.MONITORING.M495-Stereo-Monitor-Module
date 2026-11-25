@@ -1,0 +1,302 @@
+{
+ "code": "M495",
+ "connector": "RTO-144",
+ "type": "M495 - Stereo Monitor Module",
+ "series": null,
+ "contacts": "22 contacts, 5 contacts (P5)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "RIGHT IN 5",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "LEFT IN 5",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "LEFT IN 4",
+   "kind": "in",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "RIGHT IN 4",
+   "kind": "in",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "RIGHT IN 3",
+   "kind": "in",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/MONITORING/M495/MANUALS/1975 - M495 - P004 - 2-2.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "LEFT IN 3",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "17",
+   "signal": "LEFT MUTED",
+   "kind": "audio",
+   "pair": "B4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "RIGHT MUTED",
+   "kind": "audio",
+   "pair": "B3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "RIGHT IN 5",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "B",
+   "signal": "LEFT IN 5",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "D",
+   "signal": "RIGHT IN 4",
+   "kind": "in",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "E",
+   "signal": "RIGHT IN 3",
+   "kind": "in",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "LEFT IN 3",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "U",
+   "signal": "LEFT MUTED",
+   "kind": "audio",
+   "pair": "B4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "V",
+   "signal": "RIGHT MUTED",
+   "kind": "audio",
+   "pair": "B3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "X",
+   "signal": "MUTING RELAY K1",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/MONITORING/M495/MANUALS/1975 - M495 - P003 - 2-1.jpg",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "+24 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "Z",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M495/M495.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "CTRL COM",
+   "designation": "JMP.Z.20",
+   "from": "Z",
+   "to": "20"
+  },
+  {
+   "function": "24V",
+   "designation": "JMP.Y.21",
+   "from": "Y",
+   "to": "21"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "19",
+   "ground": "20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "21",
+   "ground": "20",
+   "link": 1
+  },
+  {
+   "rail": "VCC-LOGIC",
+   "style": "NEW",
+   "volts": 24,
+   "max_a": 0.2,
+   "supply": "Y",
+   "ground": "Z",
+   "link": null
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M495/M495.rto144.json",
+  "Modules/MONITORING/M495/MANUALS/1975 - M495 - P003 - 2-1.jpg",
+  "Modules/MONITORING/M495/MANUALS/1975 - M495 - P004 - 2-2.jpg"
+ ]
+}
