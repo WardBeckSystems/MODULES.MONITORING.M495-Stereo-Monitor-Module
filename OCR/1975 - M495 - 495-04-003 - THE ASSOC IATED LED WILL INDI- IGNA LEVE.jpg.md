@@ -20,7 +20,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Words (OCR):** 54 in 37 lines: WBS · M495 · Honitor · input  SELECTOR switches ShI chrough · DES IGNATION Strip to indicate input source. · ShS · to se ect the · MOnITOR   feeds · fron · any One of five stereo igna · sources · huting switch SL6: Allous manual
 - **Title block:** (142, 0)–(334, 317) mm: WBS · M495 · Honitor · input  SELECTOR switches ShI chrough · ShS · to se ect the · MOnITOR   feeds · fron · any One of five stereo igna · sources · HOnITOR LEVEL control · R25/R26 : Determines · igna
 
-Every curve, box, word and wire group: [1975 - M495 - 495-04-003 - THE ASSOC IATED LED WILL INDI- IGNA LEVE (traced).json](../MECHANICAL/1975%20-%20M495%20-%20495-04-003%20-%20THE%20ASSOC%20IATED%20LED%20WILL%20INDI-%20IGNA%20LEVE%20(traced).json) (the CAD file: `1975 - M495 - 495-04-003 - THE ASSOC IATED LED WILL INDI- IGNA LEVE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - 495-04-003 - THE ASSOC IATED LED WILL INDI- IGNA LEVE (traced).json](../MECHANICAL/1975%20-%20M495%20-%20495-04-003%20-%20THE%20ASSOC%20IATED%20LED%20WILL%20INDI-%20IGNA%20LEVE%20%28traced%29.json) (the CAD file: `1975 - M495 - 495-04-003 - THE ASSOC IATED LED WILL INDI- IGNA LEVE (traced).dxf`).
 
 ## Full text
 

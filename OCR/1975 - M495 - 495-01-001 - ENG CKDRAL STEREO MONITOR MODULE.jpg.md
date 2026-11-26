@@ -23,7 +23,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Title block:** (124, 8)–(336, 110) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. MRW · M495 · ENG. · STEREO MONITOR MODULE · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 495-01-001
 - **Wiring (first pass):** 40 connected wire groups from 112 runs; labelled ends: 95 mm → RIGHT; 15 mm → LEFT; 14 mm → RIGHT; 14 mm → LEFT; 7 mm → MUTE CONTROL, MUTE ASSIGN
 
-Every curve, box, word and wire group: [1975 - M495 - 495-01-001 - ENG CKDRAL STEREO MONITOR MODULE (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20495-01-001%20-%20ENG%20CKDRAL%20STEREO%20MONITOR%20MODULE%20(traced).json) (the CAD file: `1975 - M495 - 495-01-001 - ENG CKDRAL STEREO MONITOR MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - 495-01-001 - ENG CKDRAL STEREO MONITOR MODULE (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20495-01-001%20-%20ENG%20CKDRAL%20STEREO%20MONITOR%20MODULE%20%28traced%29.json) (the CAD file: `1975 - M495 - 495-01-001 - ENG CKDRAL STEREO MONITOR MODULE (traced).dxf`).
 
 ## Full text
 

@@ -30,7 +30,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (354, 9)–(432, 43) mm: WBS WARD-BECK Bybtems · M495 · STEREO · MONITOR Module · SCHEMATIC · SCALE · 02-001
 - **Wiring (first pass):** 127 connected wire groups from 815 runs; labelled ends: 456 mm → 3. USE; 149 mm → R8<, R49 <, 4K7 <, 2225; 141 mm → 574e, 5wze, swie;; 138 mm → 6426, Swa; 138 mm → Rns R8, Lok
 
-Every curve, box, word and wire group: [1972 - M495 - DOC - 495-02-001 - STEREO MONITOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/1972%20-%20M495%20-%20DOC%20-%20495-02-001%20-%20STEREO%20MONITOR%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1972 - M495 - DOC - 495-02-001 - STEREO MONITOR MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M495 - DOC - 495-02-001 - STEREO MONITOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/1972%20-%20M495%20-%20DOC%20-%20495-02-001%20-%20STEREO%20MONITOR%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1972 - M495 - DOC - 495-02-001 - STEREO MONITOR MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

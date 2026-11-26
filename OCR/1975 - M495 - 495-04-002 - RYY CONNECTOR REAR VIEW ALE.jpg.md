@@ -19,7 +19,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.4 @ (26.9, 83.4)
 - **Closed boxes:** 86
 
-Every curve, box, word and wire group: [1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE (traced).json](../PINOUTS/1975%20-%20M495%20-%20495-04-002%20-%20RYY%20CONNECTOR%20REAR%20VIEW%20ALE%20(traced).json) (the CAD file: `1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE (traced).json](../PINOUTS/1975%20-%20M495%20-%20495-04-002%20-%20RYY%20CONNECTOR%20REAR%20VIEW%20ALE%20%28traced%29.json) (the CAD file: `1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Title block:** (229, 0)–(319, 56) mm: He 3694- · 2uz8 R49 WAS 2k · Issuedate · REVISION · WBS WARD-BEC · Drr: Mrw · M49s · STEREO · MONitoR Module · CKD: · SCHEMATIC · SCALE · 495- 02-001
 - **Wiring (first pass):** 68 connected wire groups from 356 runs; labelled ends: 252 mm → R37, 300; 244 mm → Mute, R45, Z2k, Czi; 210 mm → R54, IOk, Crs, Ds; 159 mm → 300; 133 mm → R36, 300
 
-Every curve, box, word and wire group: [1980 - 495-02-001 - STEREO MONITOR MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 3 (traced).json](../SCHEMATICS/1980%20-%20495-02-001%20-%20STEREO%20MONITOR%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%203%20(traced).json) (the CAD file: `1980 - 495-02-001 - STEREO MONITOR MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1980 - 495-02-001 - STEREO MONITOR MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 3 (traced).json](../SCHEMATICS/1980%20-%20495-02-001%20-%20STEREO%20MONITOR%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1980 - 495-02-001 - STEREO MONITOR MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 3 (traced).dxf`).
 
 ## Full text
 

@@ -42,7 +42,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Title block:** (98, 16)–(249, 86) mm: WBS WARD-BECK · DRN: DM · 5-101B · DATE JAN 75 · Rek · DUAL BOOSTE R AMPLIFIER · CKD_ · SCALE · TOLS _
 - **Wiring (first pass):** 60 connected wire groups from 339 runs; labelled ends: 232 mm → ON, WBS; 184 mm → DRN:, DATE, CKD_; 176 mm → I5k, CRS, CRG, 33; 143 mm → R31, H18v {8k, CRS, R39; 130 mm → RED, WARD-BECK, BYSTEMS, LTD:
 
-Every curve, box, word and wire group: [1975 - 5-101-02-003 - 5-101B DUAL BOOSTER AMPLIFIER SCHEMATIC - DRN DM - ISS 2 (traced).json](../SCHEMATICS/1975%20-%205-101-02-003%20-%205-101B%20DUAL%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%202%20(traced).json) (the CAD file: `1975 - 5-101-02-003 - 5-101B DUAL BOOSTER AMPLIFIER SCHEMATIC - DRN DM - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 5-101-02-003 - 5-101B DUAL BOOSTER AMPLIFIER SCHEMATIC - DRN DM - ISS 2 (traced).json](../SCHEMATICS/1975%20-%205-101-02-003%20-%205-101B%20DUAL%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1975 - 5-101-02-003 - 5-101B DUAL BOOSTER AMPLIFIER SCHEMATIC - DRN DM - ISS 2 (traced).dxf`).
 
 ## Full text
 

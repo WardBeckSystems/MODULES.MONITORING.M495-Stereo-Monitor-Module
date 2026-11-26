@@ -21,7 +21,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Words (OCR):** 55 in 47 lines: R8 · +18v I8k · R5I · 33/10 · 18k · 21 · R1O · 620 · 18v · Ri · RG · C4
 - **Wiring (first pass):** 42 connected wire groups from 184 runs; labelled ends: 170 mm → R8, +18v I8k, 21, R5I; 158 mm → R7, 620, +18vl, 22; 99 mm → C2, R52, Isk, 33/10; 92 mm → R2, 47k, C2, 33/10; 92 mm → 33/10, Ri, 47k
 
-Every curve, box, word and wire group: [1975 - M495 - 101-02-003 - ALL ICS LMGOI AND ALL DIODES (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20101-02-003%20-%20ALL%20ICS%20LMGOI%20AND%20ALL%20DIODES%20(traced).json) (the CAD file: `1975 - M495 - 101-02-003 - ALL ICS LMGOI AND ALL DIODES (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - 101-02-003 - ALL ICS LMGOI AND ALL DIODES (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20101-02-003%20-%20ALL%20ICS%20LMGOI%20AND%20ALL%20DIODES%20%28traced%29.json) (the CAD file: `1975 - M495 - 101-02-003 - ALL ICS LMGOI AND ALL DIODES (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Words (OCR):** 60 in 52 lines: External · Connectidn · R12 · I5k · Q1 · Pn3569 · CRI Ri6 · 33 · C6 R22 · E3 · 33 · CR2 33
 - **Wiring (first pass):** 40 connected wire groups from 274 runs; labelled ends: 173 mm → C15, 22/25, C16, 22125; 143 mm → R12, I5k, CRI, Q1; 121 mm → Ri6, 33, C6, RI7; 120 mm → R18, 33, C7, ezo/10_; 89 mm → E3, BOOSTER 1
 
-Every curve, box, word and wire group: [1975 - M495 - 101-02-003 - XTERNAL CONNECTIDN (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20101-02-003%20-%20XTERNAL%20CONNECTIDN%20(traced).json) (the CAD file: `1975 - M495 - 101-02-003 - XTERNAL CONNECTIDN (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - 101-02-003 - XTERNAL CONNECTIDN (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20101-02-003%20-%20XTERNAL%20CONNECTIDN%20%28traced%29.json) (the CAD file: `1975 - M495 - 101-02-003 - XTERNAL CONNECTIDN (traced).dxf`).
 
 ## Full text
 

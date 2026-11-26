@@ -22,7 +22,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Words (OCR):** 80 in 71 lines: N? |i-046 · ~Cs#lt · RS · c4*llp · RI 22K · ~RiojK · R2I-ezo · ~C7EP · zi · 22 · LMzoi · LMzoI
 - **Title block:** (191, 1)–(334, 73) mm: 2178 R4g WAS · 2k · IssUE |DATE · REVISION · APP · WBS WARD-BECK BYBTEMB · MRw · M495 · ENG. MRW 10177 · STEREO MOniTOR MODULE · CKDRa · COMPONENT LAYOUT · APP · ISSUE · SCALE · 495-06-001
 
-Every curve, box, word and wire group: [1975 - M495 - 495-06-001 - CKDRA STEREO MONITOR MODUE (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20495-06-001%20-%20CKDRA%20STEREO%20MONITOR%20MODUE%20(traced).json) (the CAD file: `1975 - M495 - 495-06-001 - CKDRA STEREO MONITOR MODUE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - 495-06-001 - CKDRA STEREO MONITOR MODUE (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20495-06-001%20-%20CKDRA%20STEREO%20MONITOR%20MODUE%20%28traced%29.json) (the CAD file: `1975 - M495 - 495-06-001 - CKDRA STEREO MONITOR MODUE (traced).dxf`).
 
 ## Full text
 

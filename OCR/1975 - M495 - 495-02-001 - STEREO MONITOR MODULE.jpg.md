@@ -23,7 +23,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Title block:** (229, 0)–(319, 56) mm: He 3694- · 2uz8 · Issuedate · REVISION · WBS WARO-BECK · Drm: Mrw · M49s · ENG Maw_10i7t STEREO · MOnITOR Module · CKD: · SCHEMATIC · ScALE · 495- 02-001
 - **Wiring (first pass):** 64 connected wire groups from 336 runs; labelled ends: 252 mm → R37; 244 mm → Mute, R45, Z2k, Czi; 210 mm → R54, IOk, Crs, Ds; 161 mm → 300; 154 mm → R40
 
-Every curve, box, word and wire group: [1975 - M495 - 495-02-001 - STEREO MONITOR MODULE (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20495-02-001%20-%20STEREO%20MONITOR%20MODULE%20(traced).json) (the CAD file: `1975 - M495 - 495-02-001 - STEREO MONITOR MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - 495-02-001 - STEREO MONITOR MODULE (traced).json](../SCHEMATICS/1975%20-%20M495%20-%20495-02-001%20-%20STEREO%20MONITOR%20MODULE%20%28traced%29.json) (the CAD file: `1975 - M495 - 495-02-001 - STEREO MONITOR MODULE (traced).dxf`).
 
 ## Full text
 

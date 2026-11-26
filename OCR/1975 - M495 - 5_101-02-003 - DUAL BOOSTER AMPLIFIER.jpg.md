@@ -27,7 +27,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Title block:** (99, 16)–(249, 86) mm: WBS WARD-BECK · DRN: DM · 5-101B · DATE JAN 75 · Rek · DUAL BOOSTE R AMPLIFIER · CKD: · SCALE · TOLS _ · XX
 - **Wiring (first pass):** 60 connected wire groups from 338 runs; labelled ends: 231 mm → ON, WBS; 186 mm → DRN:, DATE, CKD:; 143 mm → R31, CRS, R39, 33; 123 mm → I5k, CRS, CRG, R36; 106 mm → I5k, CR7, CR8
 
-Every curve, box, word and wire group: [1975 - M495 - 5_101-02-003 - DUAL BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1975%20-%20M495%20-%205_101-02-003%20-%20DUAL%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1975 - M495 - 5_101-02-003 - DUAL BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - 5_101-02-003 - DUAL BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1975%20-%20M495%20-%205_101-02-003%20-%20DUAL%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1975 - M495 - 5_101-02-003 - DUAL BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

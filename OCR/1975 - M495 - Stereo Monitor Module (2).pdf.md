@@ -28,7 +28,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Words (OCR):** 25 in 11 lines: (~El5) WARD-BECK SYSTEMS LTD. · 841 PROGI'lESS AveNue. SCAI'lBOROUGH. ONTARIO M1H 2X4 · TELEX 06:5-25399 · TELEPI-tONE · 416 /43~ -6=S50 · M49-S · STEREO MONITOR MODULE · ps · BS · tp · ht
 - **Title block:** (108, 395)–(257, 420) mm: (~El5) WARD-BECK SYSTEMS LTD. · 841 PROGI'lESS AveNue. SCAI'lBOROUGH. ONTARIO M1H 2X4 · TELEX 06:5-25399 · TELEPI-tONE · 416 /43~ -6=S50
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p1 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p1 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -38,7 +38,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 174 in 57 lines: WARD-BECK SYSTEMS LTD. · TECHNICAL DATA · M495 STEREO MONITOR MODULE · Gain: · dB .±0.5 dB maximum. · Frequency Response: · ±0.25 dB, from 30 Hz to 20 kHz · Noise: · 80 dB below nominal output of · dBm. · (20 Hz to 20 kHz). · Less than 0.25 THD from 30 Hz to 20
 - **Title block:** (20, 402)–(128, 424) mm: WARD-BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p2 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p2 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -48,7 +48,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Dots (junctions):** 2
 - **Words (OCR):** 279 in 47 lines: WARO-SECK SYSTEMS LTO. · CIRCUIT DESCRIPTION · M495 STEREO MONITOR MODULE · The M495 allows the selection of five stereo si9na1 sources · from within · console system. Provision is made for · simultaneous level adjustment and muting of both channels as · may be required. The module outputs are desig
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p3 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p3 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -58,7 +58,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 50 in 14 lines: WARD-BECK SYSTEMS LTD. · CIRCUIT DESCRIPTION · M495 STEREO MONITOR MODULE · Power Supply Decoupling · Cll through C20 together with R42 and R43 form · passive on- · board power supply decoupling ·circuit. CRI and CR2 prevent · module damage in the event of accidental polarity reversal of · the suppl
 - **Title block:** (17, 400)–(125, 423) mm: WARD-BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p4 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p4 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 112 in 78 lines: WARD-BECK SYSTEMS LTD · PART LIST · M495 STE REO MONITOR MODUL · PART · DESCRIPTION · MFG · MFG PART NUMBER · C1 · Capa~it or · uF/10 · Kem et · T390B475M010AS
 - **Title block:** (19, 402)–(127, 424) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p5 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p5 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -78,7 +78,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 115 in 88 lines: WARD-BECK SYSTEMS LT · PARTS LIST · M495 STEREO MO NITOR MOOULE · PART · DESCRIPTI ON · MFG · MFG PART NUMBER · Ql · Tran si st or · Fai hil · 2N3569 · Q2
 - **Title block:** (21, 62)–(252, 424) mm: WARD-BECK SYSTEMS LT · PARTS LIST · M495 STEREO MO NITOR MOOULE · PART · DESCRIPTI ON · MFG · Ql · Tran si st or · Fai hil · 2N3569 · Q2 · Q3 · Rl · Re si st or !;oW · 22K · Ph ips · R2 · 22K · R3 · 2
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p6 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p6 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -88,7 +88,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 94 in 79 lines: WARC-BECK SYSTEMS LTC. · PARTS LIST · M495 · STEREO MONITOR MODULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · R31 · Resistor loW · 10K · Ph~lips
 - **Title block:** (22, 53)–(251, 424) mm: WARC-BECK SYSTEMS LTC. · PARTS LIST · M495 · STEREO MONITOR MODULE · PART · DESCRIPTION · MFG · R31 · Resistor loW · 10K · Ph~lips · R32 · 10K · R33 · 10K · R34 · 300 · R35 · 300 · R36 · 300 · R37 · 3
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p7 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p7 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -98,7 +98,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 79 in 44 lines: WARO-BECK SYSTEMS LTO · PARTS LIST · M495 STEREO MONITOR MODULE · MFG · MFG PART NUMBER · ·PART · DESCRIPTION · ZI · Integrated Circuit · National · LM201AN · Z2
 - **Title block:** (23, 61)–(131, 422) mm: WARO-BECK SYSTEMS LTO · ·PART · DESCRIPTION · ZI · Integrated Circuit · Z2 · Z3 · Z4 · USED ON · DESCRIPTION · R25) · Knob · (Black) · R26) · Cap · (Grey) · SWI · To · SW5 · SW6 · Button
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p8 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p8 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -109,7 +109,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 165 in 56 lines: WARD-BECK SYSTEMS LTD · DESCR IPTION · 101 AMPLIFIER SERIES · The 5-101 series of amplifiers re utilized as plug-in units · within certain Ward-Beck Systems 450 and 460 series modules. · There are two separa te ampl fiers per · rd each providing an · actively balanced output wit · maximum capability
 - **Title block:** (25, 308)–(176, 425) mm: WARD-BECK SYSTEMS LTD · DESCR IPTION · 101 AMPLIFIER SERIES · The 5-101 series of amplifiers re utilized as plug-in units · within certain Ward-Beck Systems 450 and 460 series modules.
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p9 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p9 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -119,7 +119,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 163 in 28 lines: WARO-BECK SYSTEMS LTO · DESCRIPTION · 5-101 AMPLIFIER SERIES · The operation of both amplifier sections is identical. Only · one section will be described. · Each section consists of two ndi vi dua inverting' amplifiers, · namely Zl and Z2. These are followed by their respective out- · put stages Q1
 - **Title block:** (20, 402)–(127, 424) mm: WARO-BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p10 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p10 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -129,7 +129,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 112 in 84 lines: WARD-BECK SYSTEMS LTD · PARTS LIST · 5-101 DUAL BOOSTER AMPLIFIER · PART · DESCRIP TION · MF · MFG PART NUMBER · C1 · Capacitor 33 uFIl · Keme · T390D336M01 0AS · C2
 - **Title block:** (22, 403)–(130, 426) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p11 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p11 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -139,7 +139,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 94 in 86 lines: WARD-BECK SYSTEMS LTD · PARTS LIST · 5-101 DUAL BOOSTER AMPLIFIER · PART · DESCRIPTION · MFG · MFG PART NUMBER · R1 · Resistor · 47K · Ph~lips · R2
 - **Title block:** (22, 401)–(130, 424) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p12 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p12 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -149,7 +149,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 106 in 65 lines: WARD-BECK SYS TEMS LTD · PAR TS LIST · 5-101 DUAL BOO STER AMPL FI ER · PART · DESCRI PTIO · MFG · MF PART NU MBER · R36 · Res istor loW · 15K · Ph~ lips · R37
 - **Title block:** (17, 101)–(83, 424) mm: WARD-BECK SYS TEMS LTD · PART · R36 · R37 · R3 · R39 · R40 · R41 · R42 · R43 · R44 · R45 · R46 · R47 · R48 · R49 · R50 · R51 · R52 · R53 · R54 · Zl · Z2 · Z3 · Z4
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p13 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p13 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -161,7 +161,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 119 in 90 lines: WARD -BECK SYSTEMS LTD · PARTS LIST · 5-l01B · BOOSTER · AM PLIFIER · PART · DE SC RI PTI ON · MFG · MFG PART NUMBER · Capacitor · 33 · uF/1
 - **Title block:** (21, 403)–(129, 425) mm: WARD -BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p14 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p14 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -171,7 +171,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Closed boxes:** 6
 - **Words (OCR):** 94 in 85 lines: WARD-BECK YSTEMS LTD · PARTS LI ST · 5-101B · OUAL BOOSTER · AMPLIFIER · PAR · DESCRIPTION · MFG · MFG PART NUMBER · Resistor · 47K · Ph~lips
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p15 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p15 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -181,7 +181,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 90 in 69 lines: WARD-BECK SYSTEMS LTD. · PARTS LIST · 5-101B · DUAL BOOSTER · AMPLIFIER · PART · DESCRIPTION · MFG · MFG PART NUMBER · R36 · Resistor loW · 15K
 - **Title block:** (18, 402)–(125, 424) mm: WARD-BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p16 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p16 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -194,7 +194,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 90 in 32 lines: WBS · '-MIS · MON ITOR IMPUT SELECTOR swi he · SW th ro ugh · DESIGNATION STRIP to nd lc.te Inp ut sou rce. · SW5: Al low · se lect the MON ITOR fe ed · roo'! · anyone · ve stereo · sou rces · MUT ING switch SW6: Allows II1II,",.1 open tlon
 - **Title block:** (142, 37)–(334, 317) mm: WBS · '-MIS · MON ITOR IMPUT SELECTOR swi he · SW th ro ugh · SW5: Al low · se lect the MON ITOR fe ed · roo'! · anyone · ve stereo · sou rces · MOM ITOR LEVEL control R25/R2 · Determines · l9 na le v
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p17 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p17 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -205,7 +205,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Closed boxes:** 4
 - **Words (OCR):** 20 in 14 lines: TALKBACK · INPUT · 8dBm 600 OHM · STEREO · MONITOR · MONITOR INPUTS · LEVEL · 5-101B · +8dBm 600 OHM · (-10 dBm) · ps · BS
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p18 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p18 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -220,7 +220,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Title block:** (125, 7)–(336, 108) mm: ISSUE DATE · REVISION · lAPP. · (VVE3S] WARD-BECK SYSTEMS · ps · DRN. · MRW · BS · M495 · ENG. · STEREO MON ITOR MODULE · CKDr,<f\L. · APP. · FUNCTIONAL DIAGRAM · tp · BI 495-01-001 · ht · 'SCALE · IS
 - **Wiring (first pass):** 31 connected wire groups from 92 runs; labelled ends: 95 mm → RIGHT; 64 mm → ,31; 18 mm → ./O---J; 16 mm → ,31; 15 mm → ,31
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p19 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p19 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -230,7 +230,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Closed boxes:** 8
 - **Words (OCR):** 55 in 50 lines: ·7/10 · 41 · AI · 22K · INPuT · 22. · CZ · AI> · '10 41 · UK · 10 · LEFT
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p20 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p20 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -242,7 +242,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Dots (junctions):** 2
 - **Words (OCR):** 94 in 74 lines: AU. · RE.~I~TOR.!t W,5°' AI'ID · LL~ITOA.S. IN~ NLE · OTl-I&.RWl&E · PEC.I!=IEO. · LASoT COMPOW EWT OES,lr. \oUt.T ION!l · C'Z.I · C.R6J051I/G~.A.54.5W" .14 · 5E. · Pee. -114 · 300 · 10'
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p21 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p21 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -253,7 +253,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Closed boxes:** 23; named: L~Ol; ~'il; Z.3 LM701; lo\R"'4U4; R2S .51( "We6 10·0 23
 - **Words (OCR):** 74 in 62 lines: SWI TO SW5 · WBS t.l'? · II-O~ · 5WS · t±fAo~ · ~1J\o · ..C.4 · 401 · ID · ~R3.J1J1 -Rim · R'tlll' · _R'o~'IC,
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p22 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p22 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -265,7 +265,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 120 in 95 lines: 1I · :-Ct~-CI · II> · RIllJ< · -R.'~£!l · R'l.llK · R'O~K. · R2J- · C.7'" · R.1.£l'. · cs-"P · 7.1
 - **Title block:** (193, 20)–(296, 72) mm: 12/781 R49 w,-,s 2K · ISSUE DATE · IIlVlSllIll · [W'E3S] WARD-IIECK · OHM. MRW · ENG. · 10m · tp MONITOR MODULE · M49S · STEREO · CKll<l?4J · ht · COMPONENT LAYOUT
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p23 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p23 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -277,7 +277,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Dots (junctions):** 2
 - **Words (OCR):** 146 in 83 lines: III · III · CD · ...Jw · CD · Ow · RIGHT IN · A1 RIGHT IN · U\I-O:: · CD · LEFT IN · B2 LEFT IN
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p24 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p24 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -289,7 +289,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 156 in 117 lines: £48 · 8£11 · eE7 · f8e · BE3 · -R.u;~3 · -R45 · -R222. · -R23 3.3 · RkO · _R434-k7 · -R44!!.k7
 - **Title block:** (115, 9)–(332, 84) mm: USED ON · MATL. · (IE · 21~ il""" · ps · 314~ <0;£8 · BS · DRN, · DM · DATE · FEB 75 · FINISH · tp · CKD.~~ · ht · SCALE · ·xx
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p25 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p25 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -301,7 +301,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Words (OCR):** 45 in 39 lines: £4e · BE3 · -R22l!.3 · -R'23 "3.3 · -R20±.k7 · _R21 · 41<..7 · 2205ro) · CG · 220/10 · h"Ul · 620
 - **Title block:** (100, 9)–(256, 83) mm: ~WARD.BECK SYSTEM&. · DM · DRN. · FEB 75 · DATE · CKD,C~~ · ht · SCALE · 'xx
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p26 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p26%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p26 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -310,7 +310,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Outlines:** line 503 rings, 7,285 straight (10,853 mm) / 1,378 curved (2,160 mm); text 176 rings, 1,723 straight (2,472 mm) / 400 curved (700 mm)
 - **Words (OCR):** 41 in 28 lines: ct · R51 · lSI<. · 33/10 · BOOSTE~ · R52 · INPUT · /5k · 33/10 · 75k · NOTES · ALL
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p27 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p27%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p27 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p27 (traced).dxf`).
 
 ### Page 28
 
@@ -320,7 +320,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Circles and arcs:** 6 circles, 0 arcs; largest r 5.8 @ (91.6, 258.7), r 5.7 @ (92.0, 244.3), r 5.6 @ (94.7, 410.4), r 5.6 @ (90.1, 93.4)
 - **Words (OCR):** 22 in 22 lines: R22 · gg · ReO · 41<7 · BOOSTER · oUTPUT · R23 · 33 · R21 · R41 · 4k1 · t8V----t--.JV"V\r---r---~
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p28 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p28%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p28 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p28 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p28%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p28 (traced).dxf`).
 
 ### Page 29
 
@@ -331,7 +331,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Closed boxes:** 29; named: ISS; MOO.; CKD.; CeCB; of2; ....4----lI---+------1 tp; ht
 - **Words (OCR):** 33 in 30 lines: R31 · C8 · R'53 · vv · 33//0 · 18k · >R25 · >47k · C9 · R54 · II · 33/10
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p29 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p29%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p29 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p29 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p29%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p29 (traced).dxf`).
 
 ### Page 30
 
@@ -345,7 +345,7 @@ Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) 
 - **Title block:** (100, 15)–(249, 87) mm: [WBS] WARD-BlECK SVSTEMS LTD. · DRN. · D.M · 5-101B · DATE · JAN 75 · DUAL BOOSTER AMPLI FIER · CKD · SC EM tp · SCALE · :xx · TOLS
 - **Wiring (first pass):** 65 connected wire groups from 513 runs; labelled ends: 232 mm → L..---L---{b, [WBS]; 164 mm → [WBS], DRN., DATE; 157 mm → 751<.; 151 mm → Q6, PN3b45; 146 mm → 5-101-02-003, ISS.
 
-Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p30 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2)%20p30%20(traced).json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p30 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - Stereo Monitor Module (2) p30 (traced).json](../MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20%282%29%20p30%20%28traced%29.json) (the CAD file: `1975 - M495 - Stereo Monitor Module (2) p30 (traced).dxf`).
 
 ## Full text
 

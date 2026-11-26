@@ -26,7 +26,7 @@ Wiki page: [M495](../../../../PAGES/M495.md)
 - **Words (OCR):** 85 in 71 lines: 0E3 · E4 0 · 23 · R22 23 · ~R23 22 · 4k7 · R2o4k7 · ~R21 4k7 · C6 · 220/18 · 220/10 · Q4
 - **Title block:** (100, 9)–(251, 80) mm: WBS WARD-BECK BYSTEMS LTD _ · DRN DM · 5-101B · DATE FEB 75 · DUAL · CKD · Rl · SCALE 2 :1 · TOLS
 
-Every curve, box, word and wire group: [1975 - M495 - 461-03-015 - DUAL BOOSTER AMPLIFIER (traced).json](../MECHANICAL/1975%20-%20M495%20-%20461-03-015%20-%20DUAL%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1975 - M495 - 461-03-015 - DUAL BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M495 - 461-03-015 - DUAL BOOSTER AMPLIFIER (traced).json](../MECHANICAL/1975%20-%20M495%20-%20461-03-015%20-%20DUAL%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1975 - M495 - 461-03-015 - DUAL BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 
