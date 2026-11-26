@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf",
+ "page": 28,
+ "version": 1,
+ "trace": "_traces/122e93f2d054a6bb-p28.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "28", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.0, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 460, "straight": {"n": 6950, "mm": 11570.2}, "curved": {"n": 1317, "mm": 2367.4}},
+  "text": {"rings": 86, "straight": {"n": 966, "mm": 1374.3}, "curved": {"n": 233, "mm": 425.6}}
+ },
+ "circles": [
+  {"c": [91.6, 258.7], "r": 5.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [92.0, 244.3], "r": 5.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [94.7, 410.4], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [90.1, 93.4], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [311.6, 106.7], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [312.9, 62.9], "r": 5.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [124.6, 334.0, 143.4, 344.6], "text": "R22"},
+   {"mm": [124.1, 319.7, 135.2, 327.7], "text": "gg"},
+   {"mm": [115.9, 305.5, 134.9, 317.0], "text": "ReO"},
+   {"mm": [114.6, 297.3, 131.3, 305.7], "text": "41<7"},
+   {"mm": [180.3, 250.4, 228.9, 259.8], "text": "BOOSTER"},
+   {"mm": [182.4, 238.4, 226.3, 249.1], "text": "oUTPUT"},
+   {"mm": [124.4, 174.9, 142.3, 184.2], "text": "R23"},
+   {"mm": [122.4, 160.0, 133.9, 168.4], "text": "33"},
+   {"mm": [114.2, 146.8, 129.5, 156.4], "text": "R21"},
+   {"mm": [259.7, 140.1, 279.4, 149.7], "text": "R41"},
+   {"mm": [112.7, 136.7, 129.5, 146.5], "text": "4k1"},
+   {"mm": [187.6, 130.8, 335.7, 139.5], "text": "t8V----t--.JV\"V\\r---r---~"},
+   {"mm": [246.1, 111.4, 264.0, 120.3], "text": "CIS"},
+   {"mm": [245.9, 103.2, 271.8, 112.1], "text": "22/25"},
+   {"mm": [247.4, 58.9, 263.0, 67.1], "text": "elf,"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [246.1, 49.9, 271.8, 57.8], "text": "22/25"},
+   {"mm": [257.8, 34.3, 277.0, 45.1], "text": "R48"},
+   {"mm": [182.0, 27.6, 321.7, 34.8], "text": "-18V·---..L--'V\\.I'I--.J\",,;,£.lL.:.:--"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 460 rings, 6,950 straight (11,570 mm) / 1,317 curved (2,367 mm); text 86 rings, 966 straight (1,374 mm) / 233 curved (426 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 5.8 @ (91.6, 258.7), r 5.7 @ (92.0, 244.3), r 5.6 @ (94.7, 410.4), r 5.6 @ (90.1, 93.4)",
+  "- **Words (OCR):** 22 in 22 lines: R22 · gg · ReO · 41<7 · BOOSTER · oUTPUT · R23 · 33 · R21 · R41 · 4k1 · t8V----t--.JV\"V\\r---r---~"
+ ]
+}

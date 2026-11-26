@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/122e93f2d054a6bb-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [21.6, 9.0, 335.5, 425.3],
+ "outlines": {
+  "line": {"rings": 86, "straight": {"n": 1525, "mm": 3618.7}, "curved": {"n": 197, "mm": 311.9}},
+  "text": {"rings": 332, "straight": {"n": 2707, "mm": 3030.5}, "curved": {"n": 702, "mm": 1105.3}},
+  "tb": {"rings": 4, "straight": {"n": 29, "mm": 34.4}, "curved": {"n": 5, "mm": 9.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 50,
+  "lines": [
+   {"mm": [23.5, 408.5, 138.8, 414.0], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [120.5, 360.8, 195.8, 367.7], "text": "CIRCUIT DESCRIPTION"},
+   {"mm": [104.3, 347.4, 211.8, 354.1], "text": "M495 STEREO MONITOR MODULE"},
+   {"mm": [36.3, 320.8, 127.4, 327.5], "text": "Power Supply Decoupling"},
+   {"mm": [35.8, 307.2, 219.6, 313.9], "text": "Cll through C20 together with R42 and R43 form"},
+   {"mm": [233.0, 307.2, 275.1, 313.9], "text": "passive on-"},
+   {"mm": [36.1, 300.7, 272.0, 307.5], "text": "board power supply decoupling ·circuit. CRI and CR2 prevent"},
+   {"mm": [36.1, 294.1, 280.0, 301.0], "text": "module damage in the event of accidental polarity reversal of"},
+   {"mm": [36.1, 287.4, 110.8, 294.3], "text": "the supply voltages"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"},
+   {"mm": [158.5, 6.7, 168.6, 13.4], "text": "2-2"}
+  ]
+ },
+ "title_block": {"mm": [16.8, 399.9, 125.0, 422.6], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTD."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 22–336 mm across, 9–425 mm up",
+  "- **Outlines:** line 86 rings, 1,525 straight (3,619 mm) / 197 curved (312 mm); text 332 rings, 2,707 straight (3,030 mm) / 702 curved (1,105 mm); tb 4 rings, 29 straight (34.4 mm) / 5 curved (9.7 mm)",
+  "- **Words (OCR):** 50 in 14 lines: WARD-BECK SYSTEMS LTD. · CIRCUIT DESCRIPTION · M495 STEREO MONITOR MODULE · Power Supply Decoupling · Cll through C20 together with R42 and R43 form · passive on- · board power supply decoupling ·circuit. CRI and CR2 prevent · module damage in the event of accidental polarity reversal of · the suppl",
+  "- **Title block:** (17, 400)–(125, 423) mm: WARD-BECK SYSTEMS LTD."
+ ]
+}

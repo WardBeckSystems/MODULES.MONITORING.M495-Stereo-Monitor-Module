@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/122e93f2d054a6bb-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 335.6, 431.8],
+ "outlines": {
+  "line": {"rings": 503, "straight": {"n": 7285, "mm": 10853.1}, "curved": {"n": 1378, "mm": 2159.6}},
+  "text": {"rings": 176, "straight": {"n": 1723, "mm": 2471.6}, "curved": {"n": 400, "mm": 700.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [93.9, 337.0, 105.6, 349.0], "text": "ct"},
+   {"mm": [190.4, 334.2, 206.4, 343.3], "text": "R51"},
+   {"mm": [192.2, 317.4, 206.8, 324.1], "text": "lSI<."},
+   {"mm": [91.8, 312.8, 113.8, 319.8], "text": "33/10"},
+   {"mm": [2.4, 180.9, 44.0, 188.8], "text": "BOOSTE~"},
+   {"mm": [189.8, 179.0, 209.2, 189.3], "text": "R52"},
+   {"mm": [5.6, 164.1, 34.8, 172.0], "text": "INPUT"},
+   {"mm": [190.4, 161.7, 204.9, 168.4], "text": "/5k"},
+   {"mm": [91.3, 158.0, 112.9, 165.5], "text": "33/10"},
+   {"mm": [271.6, 129.3, 289.1, 136.3], "text": "75k"},
+   {"mm": [64.3, 114.4, 103.4, 124.5], "text": "NOTES"},
+   {"mm": [73.0, 100.2, 88.3, 108.1], "text": "ALL"},
+   {"mm": [94.1, 99.5, 170.1, 109.4], "text": "ic: LM301 AND"},
+   {"mm": [172.9, 100.0, 189.8, 108.6], "text": "ALI."},
+   {"mm": [196.0, 99.3, 273.3, 109.1], "text": "DIODE~ 1/./1 {1-8"},
+   {"mm": [158.0, 87.4, 245.0, 99.0], "text": "Y4 5'0 AND ALL"},
+   {"mm": [73.6, 88.1, 89.0, 96.0], "text": "ALL"},
+   {"mm": [95.6, 88.1, 151.6, 96.2], "text": "RESlsrORS"},
+   {"mm": [74.1, 76.0, 153.5, 85.8], "text": "~PACITORS IN"},
+   {"mm": [157.8, 76.4, 221.9, 86.0], "text": "AF UNLESS"},
+   {"mm": [73.2, 64.6, 196.7, 72.7], "text": "OTHERWISE SPECIFIED."},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [73.0, 48.6, 250.9, 57.0], "text": "LAST COMPONENT DESIGNATIONS:"},
+   {"mm": [145.9, 36.3, 204.5, 45.9], "text": "q8, R&4,\"l:4"},
+   {"mm": [99.7, 36.5, 142.3, 44.9], "text": "CR4,EII,"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 503 rings, 7,285 straight (10,853 mm) / 1,378 curved (2,160 mm); text 176 rings, 1,723 straight (2,472 mm) / 400 curved (700 mm)",
+  "- **Words (OCR):** 41 in 28 lines: ct · R51 · lSI<. · 33/10 · BOOSTE~ · R52 · INPUT · /5k · 33/10 · 75k · NOTES · ALL"
+ ]
+}

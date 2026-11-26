@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module.pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/b9f1d4f20a1ef765-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 1.9, 335.3, 423.4],
+ "outlines": {
+  "line": {"rings": 238, "straight": {"n": 3428, "mm": 7783.6}, "curved": {"n": 455, "mm": 706.5}},
+  "text": {"rings": 115, "straight": {"n": 864, "mm": 1064.0}, "curved": {"n": 280, "mm": 461.0}}
+ },
+ "circles": [{"c": [306.5, 128.0], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [144.8, 278.7, 174.3, 301.0], "w": 29.5, "h": 22.2, "from": "ring"},
+  {"mm": [144.9, 256.1, 174.0, 278.2], "w": 29.1, "h": 22.2, "from": "ring"},
+  {"mm": [144.6, 233.0, 174.0, 255.6], "w": 29.4, "h": 22.6, "from": "ring"},
+  {"mm": [144.7, 222.2, 174.1, 232.5], "w": 29.4, "h": 10.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [38.2, 340.0, 71.7, 347.0], "text": "TALKBACK"},
+   {"mm": [44.7, 332.1, 64.6, 339.0], "text": "INPUt"},
+   {"mm": [28.5, 324.3, 80.3, 332.0], "text": "+8dBm 600 OHM"},
+   {"mm": [216.3, 297.9, 229.7, 305.1], "text": "PRE"},
+   {"mm": [19.9, 266.6, 44.7, 273.6], "text": "STEREO"},
+   {"mm": [217.4, 266.6, 246.6, 273.6], "text": "MONIToR"},
+   {"mm": [5.0, 259.1, 60.9, 266.0], "text": "MONITOR INPUTS"},
+   {"mm": [221.1, 258.6, 240.9, 265.6], "text": "LEVEL"},
+   {"mm": [282.2, 258.6, 302.7, 265.6], "text": "5-101B"},
+   {"mm": [8.0, 250.9, 58.7, 257.8], "text": "+8dBm 600 OHM"},
+   {"mm": [215.3, 250.0, 244.6, 258.2], "text": "(-10 dBm)"},
+   {"mm": [216.3, 218.5, 229.3, 225.4], "text": "PRE"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 2–423 mm up",
+  "- **Outlines:** line 238 rings, 3,428 straight (7,784 mm) / 455 curved (706 mm); text 115 rings, 864 straight (1,064 mm) / 280 curved (461 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (306.5, 128.0)",
+  "- **Closed boxes:** 4",
+  "- **Words (OCR):** 14 in 12 lines: TALKBACK · INPUt · +8dBm 600 OHM · PRE · STEREO · MONIToR · MONITOR INPUTS · LEVEL · 5-101B · +8dBm 600 OHM · (-10 dBm) · PRE"
+ ]
+}

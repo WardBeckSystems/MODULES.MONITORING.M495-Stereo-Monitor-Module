@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/122e93f2d054a6bb-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 21.4, 335.5, 424.9],
+ "outlines": {
+  "line": {"rings": 66, "straight": {"n": 1026, "mm": 2743.6}, "curved": {"n": 113, "mm": 164.8}},
+  "text": {"rings": 149, "straight": {"n": 1623, "mm": 2361.3}, "curved": {"n": 367, "mm": 661.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [40.4, 392.5, 279.2, 411.2], "text": "(~El5) WARD-BECK SYSTEMS LTD."},
+   {"mm": [114.4, 398.3, 275.1, 402.2], "text": "841 PROGI'lESS AveNue. SCAI'lBOROUGH. ONTARIO M1H 2X4"},
+   {"mm": [114.6, 392.7, 165.6, 396.6], "text": "TELEX 06:5-25399"},
+   {"mm": [202.3, 392.7, 233.2, 396.6], "text": "TELEPI-tONE"},
+   {"mm": [237.3, 392.5, 275.1, 396.6], "text": "416 /43~ -6=S50"},
+   {"mm": [147.2, 268.1, 176.2, 277.3], "text": "M49-S"},
+   {"mm": [113.8, 255.4, 214.4, 261.9], "text": "STEREO MONITOR MODULE"},
+   {"mm": [284.8, 59.2, 305.7, 68.3], "text": "ps"},
+   {"mm": [273.3, 47.7, 295.1, 59.2], "text": "BS"},
+   {"mm": [250.9, 25.3, 269.4, 32.5], "text": "tp"},
+   {"mm": [243.5, 18.1, 264.5, 25.3], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [108.4, 394.9, 257.3, 419.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "(~El5) WARD-BECK SYSTEMS LTD.",
+   "841 PROGI'lESS AveNue. SCAI'lBOROUGH. ONTARIO M1H 2X4",
+   "TELEX 06:5-25399",
+   "TELEPI-tONE",
+   "416 /43~ -6=S50"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–336 mm across, 21–425 mm up",
+  "- **Outlines:** line 66 rings, 1,026 straight (2,744 mm) / 113 curved (165 mm); text 149 rings, 1,623 straight (2,361 mm) / 367 curved (661 mm)",
+  "- **Words (OCR):** 25 in 11 lines: (~El5) WARD-BECK SYSTEMS LTD. · 841 PROGI'lESS AveNue. SCAI'lBOROUGH. ONTARIO M1H 2X4 · TELEX 06:5-25399 · TELEPI-tONE · 416 /43~ -6=S50 · M49-S · STEREO MONITOR MODULE · ps · BS · tp · ht",
+  "- **Title block:** (108, 395)–(257, 420) mm: (~El5) WARD-BECK SYSTEMS LTD. · 841 PROGI'lESS AveNue. SCAI'lBOROUGH. ONTARIO M1H 2X4 · TELEX 06:5-25399 · TELEPI-tONE · 416 /43~ -6=S50"
+ ]
+}
