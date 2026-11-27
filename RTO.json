@@ -3,300 +3,967 @@
  "connector": "RTO-144",
  "type": "M495 - Stereo Monitor Module",
  "series": null,
- "contacts": "22 contacts, 5 contacts (P5)",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M495/M495.rto144.json",
+  "sheet_agrees": "20 of 20"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
    "signal": "RIGHT IN 5",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
+   "port": "RIGHT IN 5",
+   "polarity": "R",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right IN 5 +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
    "signal": "LEFT IN 5",
    "kind": "in",
-   "pair": "A2",
-   "polarity": "+",
+   "port": "LEFT IN 5",
+   "polarity": "L",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Left IN 5 +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT IN 4",
+   "kind": "in",
+   "port": "RIGHT IN 4",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Left IN 4 +",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
    "signal": "LEFT IN 4",
    "kind": "in",
-   "pair": "A4",
-   "polarity": "+",
+   "port": "LEFT IN 4",
+   "polarity": "L",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right IN 4 +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
-   "pin": "4",
-   "signal": "RIGHT IN 4",
-   "kind": "in",
-   "pair": "A3",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
    "signal": "RIGHT IN 3",
    "kind": "in",
-   "pair": "B1",
-   "polarity": "+",
+   "port": "RIGHT IN 3",
+   "polarity": "R",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right IN 3 +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/MONITORING/M495/MANUALS/1975 - M495 - P004 - 2-2.jpg",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
    "signal": "LEFT IN 3",
    "kind": "in",
-   "pair": "B2",
-   "polarity": "+",
+   "port": "LEFT IN 3",
+   "polarity": "L",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Left IN 3 +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT IN 2",
+   "kind": "in",
+   "port": "RIGHT IN 2",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT IN 2",
+   "kind": "in",
+   "port": "LEFT IN 2",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT IN 1",
+   "kind": "in",
+   "port": "RIGHT IN 1",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT IN 1",
+   "kind": "in",
+   "port": "LEFT IN 1",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK IN",
+   "kind": "in",
+   "port": "TALKBACK IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT UNMUTED OUT",
+   "kind": "out",
+   "port": "LEFT UNMUTED OUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT UNMUTED OUT",
+   "kind": "out",
+   "port": "RIGHT UNMUTED OUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "17",
-   "signal": "LEFT MUTED",
-   "kind": "audio",
-   "pair": "B4",
-   "polarity": "+",
+   "ref": "17",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT MUTED OUT",
+   "kind": "out",
+   "port": "LEFT MUTED OUT",
+   "polarity": "L",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Left Muted +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "18",
-   "signal": "RIGHT MUTED",
-   "kind": "audio",
-   "pair": "B3",
-   "polarity": "+",
+   "ref": "18",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT MUTED OUT",
+   "kind": "out",
+   "port": "RIGHT MUTED OUT",
+   "polarity": "R",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right Muted +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
-   "signal": "COMMON",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
+   "signal": "25 V COM",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "A",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
    "signal": "RIGHT IN 5",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
+   "port": "RIGHT IN 5",
+   "polarity": "R",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right IN 5 -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
    "signal": "LEFT IN 5",
    "kind": "in",
-   "pair": "A2",
-   "polarity": "-",
+   "port": "LEFT IN 5",
+   "polarity": "L",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Left IN 5 -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
-   "pin": "D",
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
    "signal": "RIGHT IN 4",
    "kind": "in",
-   "pair": "A3",
-   "polarity": "-",
+   "port": "RIGHT IN 4",
+   "polarity": "R",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT IN 4",
+   "kind": "in",
+   "port": "LEFT IN 4",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right IN 4 -",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
    "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
    "signal": "RIGHT IN 3",
    "kind": "in",
-   "pair": "B1",
-   "polarity": "-",
+   "port": "RIGHT IN 3",
+   "polarity": "R",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right IN 3 -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
    "signal": "LEFT IN 3",
    "kind": "in",
-   "pair": "B2",
-   "polarity": "-",
+   "port": "LEFT IN 3",
+   "polarity": "L",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Left IN 3 -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
-   "pin": "U",
-   "signal": "LEFT MUTED",
-   "kind": "audio",
-   "pair": "B4",
-   "polarity": "-",
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT IN 2",
+   "kind": "in",
+   "port": "RIGHT IN 2",
+   "polarity": "R",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "V",
-   "signal": "RIGHT MUTED",
-   "kind": "audio",
-   "pair": "B3",
-   "polarity": "-",
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT IN 2",
+   "kind": "in",
+   "port": "LEFT IN 2",
+   "polarity": "L",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "X",
-   "signal": "MUTING RELAY K1",
-   "kind": "control",
-   "pair": null,
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT IN 1",
+   "kind": "in",
+   "port": "RIGHT IN 1",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT IN 1",
+   "kind": "in",
+   "port": "LEFT IN 1",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK IN",
+   "kind": "in",
+   "port": "TALKBACK IN",
    "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/MONITORING/M495/MANUALS/1975 - M495 - P003 - 2-1.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "ref": "R",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT UNMUTED OUT",
+   "kind": "out",
+   "port": "LEFT UNMUTED OUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT UNMUTED OUT",
+   "kind": "out",
+   "port": "RIGHT UNMUTED OUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT MUTED OUT",
+   "kind": "out",
+   "port": "LEFT MUTED OUT",
+   "polarity": "L",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Left Muted -",
+    "kind": "other",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT MUTED OUT",
+   "kind": "out",
+   "port": "RIGHT MUTED OUT",
+   "polarity": "R",
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right Muted -",
+    "kind": "other",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE ASSIGN",
+   "kind": "control_in",
+   "port": "MUTE ASSIGN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL",
+   "kind": "control_in",
+   "port": "MUTE CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "Y",
+   "ref": "Y",
+   "also": null,
+   "same_row": null,
    "signal": "+24 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-LOGIC",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "Z",
-   "signal": "COMMON",
+   "ref": "Z",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M495/M495.rto144.json",
-   "page": 1
+   "read_from": [
+    "M495/PINOUTS/1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   }
  ],
+ "ports": [
+  {
+   "name": "RIGHT IN 5",
+   "dir": "in",
+   "pins": {
+    "a": "P1-1",
+    "b": "P1-A"
+   }
+  },
+  {
+   "name": "LEFT IN 5",
+   "dir": "in",
+   "pins": {
+    "a": "P1-2",
+    "b": "P1-B"
+   }
+  },
+  {
+   "name": "RIGHT IN 4",
+   "dir": "in",
+   "pins": {
+    "a": "P1-3",
+    "b": "P1-C"
+   }
+  },
+  {
+   "name": "LEFT IN 4",
+   "dir": "in",
+   "pins": {
+    "a": "P1-4",
+    "b": "P1-D"
+   }
+  },
+  {
+   "name": "RIGHT IN 3",
+   "dir": "in",
+   "pins": {
+    "a": "P1-5",
+    "b": "P1-E"
+   }
+  },
+  {
+   "name": "LEFT IN 3",
+   "dir": "in",
+   "pins": {
+    "a": "P1-6",
+    "b": "P1-F"
+   }
+  },
+  {
+   "name": "RIGHT IN 2",
+   "dir": "in",
+   "pins": {
+    "a": "P1-7",
+    "b": "P1-H"
+   }
+  },
+  {
+   "name": "LEFT IN 2",
+   "dir": "in",
+   "pins": {
+    "a": "P1-8",
+    "b": "P1-J"
+   }
+  },
+  {
+   "name": "RIGHT IN 1",
+   "dir": "in",
+   "pins": {
+    "a": "P1-9",
+    "b": "P1-K"
+   }
+  },
+  {
+   "name": "LEFT IN 1",
+   "dir": "in",
+   "pins": {
+    "a": "P1-10",
+    "b": "P1-L"
+   }
+  },
+  {
+   "name": "TALKBACK IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-11",
+    "b": "P1-M"
+   }
+  },
+  {
+   "name": "LEFT UNMUTED OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-15",
+    "b": "P1-S"
+   }
+  },
+  {
+   "name": "RIGHT UNMUTED OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-16",
+    "b": "P1-T"
+   }
+  },
+  {
+   "name": "LEFT MUTED OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-17",
+    "b": "P1-U"
+   }
+  },
+  {
+   "name": "RIGHT MUTED OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-18",
+    "b": "P1-V"
+   }
+  },
+  {
+   "name": "MUTE ASSIGN",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-W"
+   }
+  },
+  {
+   "name": "MUTE CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-X"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [
   {
-   "function": "CTRL COM",
-   "designation": "JMP.Z.20",
-   "from": "Z",
-   "to": "20"
+   "name": "JMP.Z.20",
+   "pins": [
+    "Z",
+    "20"
+   ],
+   "note": "CTRL COM",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "24V",
-   "designation": "JMP.Y.21",
-   "from": "Y",
-   "to": "21"
+   "name": "JMP.Y.21",
+   "pins": [
+    "Y",
+    "21"
+   ],
+   "note": "24V",
+   "from": "RTO-144 sheet"
   }
  ],
- "power": [
-  {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.2,
-   "supply": "19",
-   "ground": "20",
-   "link": 2
-  },
-  {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "21",
-   "ground": "20",
-   "link": 1
-  },
-  {
-   "rail": "VCC-LOGIC",
-   "style": "NEW",
-   "volts": 24,
-   "max_a": 0.2,
-   "supply": "Y",
-   "ground": "Z",
-   "link": null
-  }
- ],
- "sources": [
-  "Engineering/RTO-144/M495/M495.rto144.json",
-  "Modules/MONITORING/M495/MANUALS/1975 - M495 - P003 - 2-1.jpg",
-  "Modules/MONITORING/M495/MANUALS/1975 - M495 - P004 - 2-2.jpg"
- ]
+ "conflicts": [],
+ "to_check": []
 }

@@ -1,0 +1,612 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.jpg",
+  "module": "M495",
+  "applies_to": [
+    "M495"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "495-04-002",
+    "title": "M495 STEREO MONITOR MODULE CONNECTOR REAR VIEW",
+    "date": "1977-12",
+    "issue": "1",
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "RIGHT IN #5",
+      "signal": "RIGHT IN 5",
+      "kind": "in",
+      "port": "RIGHT IN 5",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": null,
+      "as_drawn": "RIGHT IN #5",
+      "signal": "RIGHT IN 5",
+      "kind": "in",
+      "port": "RIGHT IN 5",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "LEFT IN #5",
+      "signal": "LEFT IN 5",
+      "kind": "in",
+      "port": "LEFT IN 5",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": null,
+      "as_drawn": "LEFT IN #5",
+      "signal": "LEFT IN 5",
+      "kind": "in",
+      "port": "LEFT IN 5",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "RIGHT IN #4",
+      "signal": "RIGHT IN 4",
+      "kind": "in",
+      "port": "RIGHT IN 4",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": null,
+      "as_drawn": "RIGHT IN #4",
+      "signal": "RIGHT IN 4",
+      "kind": "in",
+      "port": "RIGHT IN 4",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "LEFT IN #4",
+      "signal": "LEFT IN 4",
+      "kind": "in",
+      "port": "LEFT IN 4",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": null,
+      "as_drawn": "LEFT IN #4",
+      "signal": "LEFT IN 4",
+      "kind": "in",
+      "port": "LEFT IN 4",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "RIGHT IN #3",
+      "signal": "RIGHT IN 3",
+      "kind": "in",
+      "port": "RIGHT IN 3",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": null,
+      "as_drawn": "RIGHT IN #3",
+      "signal": "RIGHT IN 3",
+      "kind": "in",
+      "port": "RIGHT IN 3",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "LEFT IN #3",
+      "signal": "LEFT IN 3",
+      "kind": "in",
+      "port": "LEFT IN 3",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": null,
+      "as_drawn": "LEFT IN #3",
+      "signal": "LEFT IN 3",
+      "kind": "in",
+      "port": "LEFT IN 3",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "RIGHT IN #2",
+      "signal": "RIGHT IN 2",
+      "kind": "in",
+      "port": "RIGHT IN 2",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": null,
+      "as_drawn": "RIGHT IN #2",
+      "signal": "RIGHT IN 2",
+      "kind": "in",
+      "port": "RIGHT IN 2",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "LEFT IN #2",
+      "signal": "LEFT IN 2",
+      "kind": "in",
+      "port": "LEFT IN 2",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": null,
+      "as_drawn": "LEFT IN #2",
+      "signal": "LEFT IN 2",
+      "kind": "in",
+      "port": "LEFT IN 2",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "RIGHT IN #1",
+      "signal": "RIGHT IN 1",
+      "kind": "in",
+      "port": "RIGHT IN 1",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": null,
+      "as_drawn": "RIGHT IN #1",
+      "signal": "RIGHT IN 1",
+      "kind": "in",
+      "port": "RIGHT IN 1",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "LEFT IN #1",
+      "signal": "LEFT IN 1",
+      "kind": "in",
+      "port": "LEFT IN 1",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": null,
+      "as_drawn": "LEFT IN #1",
+      "signal": "LEFT IN 1",
+      "kind": "in",
+      "port": "LEFT IN 1",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "TALKBACK IN",
+      "signal": "TALKBACK IN",
+      "kind": "in",
+      "port": "TALKBACK IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": null,
+      "as_drawn": "TALKBACK IN",
+      "signal": "TALKBACK IN",
+      "kind": "in",
+      "port": "TALKBACK IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "LEFT UNMUTED OUT",
+      "signal": "LEFT UNMUTED OUT",
+      "kind": "out",
+      "port": "LEFT UNMUTED OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": null,
+      "as_drawn": "LEFT UNMUTED OUT",
+      "signal": "LEFT UNMUTED OUT",
+      "kind": "out",
+      "port": "LEFT UNMUTED OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "RIGHT UNMUTED OUT",
+      "signal": "RIGHT UNMUTED OUT",
+      "kind": "out",
+      "port": "RIGHT UNMUTED OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": null,
+      "as_drawn": "RIGHT UNMUTED OUT",
+      "signal": "RIGHT UNMUTED OUT",
+      "kind": "out",
+      "port": "RIGHT UNMUTED OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "LEFT MUTED OUT",
+      "signal": "LEFT MUTED OUT",
+      "kind": "out",
+      "port": "LEFT MUTED OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": null,
+      "as_drawn": "LEFT MUTED OUT",
+      "signal": "LEFT MUTED OUT",
+      "kind": "out",
+      "port": "LEFT MUTED OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "RIGHT MUTED OUT",
+      "signal": "RIGHT MUTED OUT",
+      "kind": "out",
+      "port": "RIGHT MUTED OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": null,
+      "as_drawn": "RIGHT MUTED OUT",
+      "signal": "RIGHT MUTED OUT",
+      "kind": "out",
+      "port": "RIGHT MUTED OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": null,
+      "as_drawn": "MUTE ASSIGN",
+      "signal": "MUTE ASSIGN",
+      "kind": "control_in",
+      "port": "MUTE ASSIGN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "25V COM",
+      "signal": "25 V COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": null,
+      "as_drawn": "MUTE CTL",
+      "signal": "MUTE CONTROL",
+      "kind": "control_in",
+      "port": "MUTE CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": null,
+      "as_drawn": "+24V",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "RIGHT IN 5",
+      "dir": "in",
+      "pins": {
+        "a": "P1-1",
+        "b": "P1-A"
+      }
+    },
+    {
+      "name": "LEFT IN 5",
+      "dir": "in",
+      "pins": {
+        "a": "P1-2",
+        "b": "P1-B"
+      }
+    },
+    {
+      "name": "RIGHT IN 4",
+      "dir": "in",
+      "pins": {
+        "a": "P1-3",
+        "b": "P1-C"
+      }
+    },
+    {
+      "name": "LEFT IN 4",
+      "dir": "in",
+      "pins": {
+        "a": "P1-4",
+        "b": "P1-D"
+      }
+    },
+    {
+      "name": "RIGHT IN 3",
+      "dir": "in",
+      "pins": {
+        "a": "P1-5",
+        "b": "P1-E"
+      }
+    },
+    {
+      "name": "LEFT IN 3",
+      "dir": "in",
+      "pins": {
+        "a": "P1-6",
+        "b": "P1-F"
+      }
+    },
+    {
+      "name": "RIGHT IN 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-7",
+        "b": "P1-H"
+      }
+    },
+    {
+      "name": "LEFT IN 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-8",
+        "b": "P1-J"
+      }
+    },
+    {
+      "name": "RIGHT IN 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-9",
+        "b": "P1-K"
+      }
+    },
+    {
+      "name": "LEFT IN 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-10",
+        "b": "P1-L"
+      }
+    },
+    {
+      "name": "TALKBACK IN",
+      "dir": "in",
+      "pins": {
+        "a": "P1-11",
+        "b": "P1-M"
+      }
+    },
+    {
+      "name": "LEFT UNMUTED OUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-15",
+        "b": "P1-S"
+      }
+    },
+    {
+      "name": "RIGHT UNMUTED OUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-16",
+        "b": "P1-T"
+      }
+    },
+    {
+      "name": "LEFT MUTED OUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-17",
+        "b": "P1-U"
+      }
+    },
+    {
+      "name": "RIGHT MUTED OUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-18",
+        "b": "P1-V"
+      }
+    },
+    {
+      "name": "MUTE ASSIGN",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-W"
+      }
+    },
+    {
+      "name": "MUTE CTL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-X"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "DRN field blank; CKD signature only",
+    "connector name not drawn; 'P1' assumed"
+  ],
+  "confidence": "high",
+  "notes": "Labels written on both sides, once per contact, so every contact is its own pin (also=null); same-label pairs are a/b (number/letter) with no +/- marks. Five stereo inputs #1-#5, talkback in, unmuted and muted stereo outputs. Side differences: 19 -25V / W MUTE ASSIGN; 20 25V COM / X MUTE CTL; 21 +25V / Y +24V; 22 CHASSIS / Z CTL COM. Date DEC 1977 though the file name says 1975. No inserts."
+}

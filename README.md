@@ -140,34 +140,56 @@ Not on Google Drive yet: `M495 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts, 5 contacts (P5). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 20 of 20 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | RIGHT IN 5 | in | A1 + | high |
-| 2 | LEFT IN 5 | in | A2 + | high |
-| 3 | LEFT IN 4 | in | A4 + | high |
-| 4 | RIGHT IN 4 | in | A3 + | high |
-| 5 | RIGHT IN 3 | in | B1 + | high |
-| 5 |  | unread |  | low |
-| 6 | LEFT IN 3 | in | B2 + | high |
-| 17 | LEFT MUTED | audio | B4 + | high |
-| 18 | RIGHT MUTED | audio | B3 + | high |
+| 1 | RIGHT IN 5 | in | RIGHT IN 5 R | high |
+| 2 | LEFT IN 5 | in | LEFT IN 5 L | high |
+| 3 | RIGHT IN 4 | in | RIGHT IN 4 R | high |
+| 4 | LEFT IN 4 | in | LEFT IN 4 L | high |
+| 5 | RIGHT IN 3 | in | RIGHT IN 3 R | high |
+| 6 | LEFT IN 3 | in | LEFT IN 3 L | high |
+| 7 | RIGHT IN 2 | in | RIGHT IN 2 R | high |
+| 8 | LEFT IN 2 | in | LEFT IN 2 L | high |
+| 9 | RIGHT IN 1 | in | RIGHT IN 1 R | high |
+| 10 | LEFT IN 1 | in | LEFT IN 1 L | high |
+| 11 | TALKBACK IN | in | TALKBACK IN | high |
+| 12 | N/C | nc |  | high |
+| 13 | N/C | nc |  | high |
+| 14 | N/C | nc |  | high |
+| 15 | LEFT UNMUTED OUT | out | LEFT UNMUTED OUT L | high |
+| 16 | RIGHT UNMUTED OUT | out | RIGHT UNMUTED OUT R | high |
+| 17 | LEFT MUTED OUT | out | LEFT MUTED OUT L | high |
+| 18 | RIGHT MUTED OUT | out | RIGHT MUTED OUT R | high |
 | 19 | -25 V | power |  | high |
-| 20 | COMMON | ground |  | high |
+| 20 | 25 V COM | ground |  | high |
 | 21 | +25 V | power |  | high |
-| A | RIGHT IN 5 | in | A1 - | high |
-| B | LEFT IN 5 | in | A2 - | high |
-| D | RIGHT IN 4 | in | A3 - | high |
-| E | RIGHT IN 3 | in | B1 - | high |
-| F | LEFT IN 3 | in | B2 - | high |
-| U | LEFT MUTED | audio | B4 - | high |
-| V | RIGHT MUTED | audio | B3 - | high |
-| X | MUTING RELAY K1 | control |  | medium |
+| 22 | CHASSIS | ground |  | high |
+| A | RIGHT IN 5 | in | RIGHT IN 5 R | high |
+| B | LEFT IN 5 | in | LEFT IN 5 L | high |
+| C | RIGHT IN 4 | in | RIGHT IN 4 R | high |
+| D | LEFT IN 4 | in | LEFT IN 4 L | high |
+| E | RIGHT IN 3 | in | RIGHT IN 3 R | high |
+| F | LEFT IN 3 | in | LEFT IN 3 L | high |
+| H | RIGHT IN 2 | in | RIGHT IN 2 R | high |
+| J | LEFT IN 2 | in | LEFT IN 2 L | high |
+| K | RIGHT IN 1 | in | RIGHT IN 1 R | high |
+| L | LEFT IN 1 | in | LEFT IN 1 L | high |
+| M | TALKBACK IN | in | TALKBACK IN | high |
+| N | N/C | nc |  | high |
+| P | N/C | nc |  | high |
+| R | N/C | nc |  | high |
+| S | LEFT UNMUTED OUT | out | LEFT UNMUTED OUT L | high |
+| T | RIGHT UNMUTED OUT | out | RIGHT UNMUTED OUT R | high |
+| U | LEFT MUTED OUT | out | LEFT MUTED OUT L | high |
+| V | RIGHT MUTED OUT | out | RIGHT MUTED OUT R | high |
+| W | MUTE ASSIGN | control_in | MUTE ASSIGN | high |
+| X | MUTE CONTROL | control_in | MUTE CTL | high |
 | Y | +24 V | power |  | high |
-| Z | COMMON | ground |  | high |
+| Z | CONTROL COMMON | ground |  | high |
 
-**Straps:** CTRL COM: JMP.Z.20 · 24V: JMP.Y.21
+**Straps:** JMP.Z.20: Z 20 · JMP.Y.21: Y 21
 
 ## Manuals and documents
 
