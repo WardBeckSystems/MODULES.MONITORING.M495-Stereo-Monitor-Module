@@ -1,0 +1,47 @@
+{
+ "module": "M495",
+ "source": {
+  "file": "MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf",
+  "pages": [
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M495 allows the selection of five stereo si9na1 sources from within a console system. Provision is made for simultaneous level adjustment and muting of both channels as maybe required. The module outputs are designed for driving an external monitor amplifier as well as a 600 ohm headset feed.",
+    "Monitor Inputs Source selection is made with an interlocked two-channel, fivestation push-button assembly.",
+    "A separate input i s provided for ta1kback facilities and appears on the left channel only.",
+    "Preamplifiers ZI, Z2 and their associated components form the balanced, high input impedance preamplifier used for the LEFT channel. The output of Z2 is coupled through C13 to one half of the level control (R25). From the level control, the signal is coupled through C15 and R27 to pin E2 of the 5-101B booster amplifier. The RIGHT channel signal is processed in an identical manner via Z3, Z4, C14 and the second half of the level control (R26). From R26, the signal is routed through C16 and R29 to pin E6 of the 5-101B amplifier. A balance trim control R2B is inserted between C16 and R29.",
+    "Outputs A 5-101B dual booster amel if-ier--is -emp-loye d-i-n-.t he-·-{) ut putstage.",
+    "Two output feeds are provided for each of the two stereo channels, one of which is brought out directly from the 5-101B amplifier, whereas the second feed is routed through the contacts of a muting relay.",
+    "Muting",
+    "The muting relay Kl maybe operated either by the mute push",
+    "button SW6 or externally by aground closure at pin X of the",
+    "module connector. The LED DSI is illuminated when the muting",
+    "function is activated.",
+    "Power Supply Decoupling Cll through C20 together with R42 and R43 form a passive onboard power supply decoupling ·circuit. CRI and CR2 prevent module damage in the event of accidental polarity reversal of the supply voltages."
+   ]
+  },
+  {
+   "heading": "PARTS LIST",
+   "paragraphs": [
+    "PART DESCRIPTION MFG MFG PART NUMBER C1 Capa~it or 4.7 uF/10 V Kem et T390B475M010AS",
+    "C7 10 p' F Ph~l ips 2222 -638-1 0109",
+    "Cll 0.047 uF Aselco CQ92 -MC-473M C1 2 \" \" \" C13 33 uF/10 V Keme t T390D 336M01 0A S",
+    "C17 22 uF/ 25 V Ph ~lips 426ET F22",
+    "C21 22 uF/ 25 V Kemet T390D22 6M025AS",
+    "CR1 Diode Motorola 1N400 3",
+    "CR3 Fa irc hil d 1N4148 CR4 Motorola 1N400 3 CR5 Fair child 1N4148 CR6 lewer ·-I N753A",
+    "OS 1 LED, red FLV1l7",
+    "K1 Relay Clare MRB 4A24"
+   ]
+  }
+ ]
+}

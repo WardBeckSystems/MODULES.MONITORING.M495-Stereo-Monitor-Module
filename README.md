@@ -13,6 +13,88 @@ Ward-Beck Systems M495, 1972|5. Wiki page: [M495 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 16 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 50 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [11 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1975 - M495 - Stereo Monitor Module (2).pdf](MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2).pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 2 dB.±0.5 dB maximum. |
+| **Frequency response** | ±0.25 dB, from 30 Hz to 20 kHz. |
+| **Noise** | 80 dB below nominal output of ~ dBm. (20 Hz to 20 kHz). |
+| **Harmonic distortion** | Less than 0.25 % THD from 30 Hz to 20 kHz at +18 dBm output or less. Less than 0.1% at mid-band at +18 dBm output. |
+| **Source impedances** | 600 ohms~r less, balanced/unb~lanced. |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Monitor | 30,000 ohms, balanced. |
+| &nbsp;&nbsp;Talk back | 30,000 ohms, balanced. |
+| &nbsp;&nbsp;Input levels | +8 dBm nominal, +24 dBm maximum. |
+| **Output impedances** | 600 ohms, balanced. |
+| **Load impedances** | 600 ohms, balanced. |
+| **Output levels** | 0 dBm nominal, +20 dBm maximum. |
+| **Channel separation** | Better than 50 dB, from 30 Hz to 20 kHz, better than 70 dB at 1 kHz. |
+| **Phasing** | -----r n-put ---aifdoilt pirt --t e r mi n-a1s designated by numbers are in phase. |
+| **Power requirements** | ±25 volts dc, 45 rnA nominal, 60 rnA maximum. |
+| **Ambient temperature** | 0 to 60 degrees Celsius. |
+| **Dimensions** | 1.6&quot; wide X 7&quot; high X 6.5&quot; deep. (41 mm X 178 mm X 165 mm). |
+
+## Circuit description
+
+From [1975 - M495 - Stereo Monitor Module (2).pdf](MANUALS/1975%20-%20M495%20-%20Stereo%20Monitor%20Module%20(2).pdf) pages 3-6 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M495 allows the selection of five stereo si9na1 sources from within a console system. Provision is made for simultaneous level adjustment and muting of both channels as maybe required. The module outputs are designed for driving an external monitor amplifier as well as a 600 ohm headset feed.
+
+Monitor Inputs Source selection is made with an interlocked two-channel, fivestation push-button assembly.
+
+A separate input i s provided for ta1kback facilities and appears on the left channel only.
+
+Preamplifiers ZI, Z2 and their associated components form the balanced, high input impedance preamplifier used for the LEFT channel. The output of Z2 is coupled through C13 to one half of the level control (R25). From the level control, the signal is coupled through C15 and R27 to pin E2 of the 5-101B booster amplifier. The RIGHT channel signal is processed in an identical manner via Z3, Z4, C14 and the second half of the level control (R26). From R26, the signal is routed through C16 and R29 to pin E6 of the 5-101B amplifier. A balance trim control R2B is inserted between C16 and R29.
+
+Outputs A 5-101B dual booster amel if-ier--is -emp-loye d-i-n-.t he-·-{) ut putstage.
+
+Two output feeds are provided for each of the two stereo channels, one of which is brought out directly from the 5-101B amplifier, whereas the second feed is routed through the contacts of a muting relay.
+
+Muting
+
+The muting relay Kl maybe operated either by the mute push
+
+button SW6 or externally by aground closure at pin X of the
+
+module connector. The LED DSI is illuminated when the muting
+
+function is activated.
+
+Power Supply Decoupling Cll through C20 together with R42 and R43 form a passive onboard power supply decoupling ·circuit. CRI and CR2 prevent module damage in the event of accidental polarity reversal of the supply voltages.
+
+**PARTS LIST**
+
+PART DESCRIPTION MFG MFG PART NUMBER C1 Capa~it or 4.7 uF/10 V Kem et T390B475M010AS
+
+C7 10 p' F Ph~l ips 2222 -638-1 0109
+
+Cll 0.047 uF Aselco CQ92 -MC-473M C1 2 &quot; &quot; &quot; C13 33 uF/10 V Keme t T390D 336M01 0A S
+
+C17 22 uF/ 25 V Ph ~lips 426ET F22
+
+C21 22 uF/ 25 V Kemet T390D22 6M025AS
+
+CR1 Diode Motorola 1N400 3
+
+CR3 Fa irc hil d 1N4148 CR4 Motorola 1N400 3 CR5 Fair child 1N4148 CR6 lewer ·-I N753A
+
+OS 1 LED, red FLV1l7
+
+K1 Relay Clare MRB 4A24
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

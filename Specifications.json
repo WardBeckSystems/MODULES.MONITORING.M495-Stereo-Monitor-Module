@@ -1,0 +1,287 @@
+{
+ "module": "M495",
+ "title": "M495 STEREO MONITOR MODULE",
+ "source": {
+  "file": "MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf",
+  "page": 2
+ },
+ "ocr_quality": 0.95,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "2 dB.±0.5 dB maximum.",
+   "quantities": [
+    {
+     "value": 2,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.25 dB, from 30 Hz to 20 kHz.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "80 dB below nominal output of ~ dBm. (20 Hz to 20 kHz).",
+   "quantities": [
+    {
+     "value": 80,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25 % THD from 30 Hz to 20 kHz at +18 dBm output or less. Less than 0.1% at mid-band at +18 dBm output.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "600 ohms~r less, balanced/unb~lanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Monitor",
+     "text": "30,000 ohms, balanced.",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "monitor"
+    },
+    {
+     "name": "Talk back",
+     "text": "30,000 ohms, balanced.",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "talk_back"
+    },
+    {
+     "name": "Input levels",
+     "text": "+8 dBm nominal, +24 dBm maximum.",
+     "quantities": [
+      {
+       "value": 8,
+       "unit": "dBm"
+      },
+      {
+       "value": 24,
+       "unit": "dBm"
+      }
+     ],
+     "key": "input_level"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "600 ohms, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "600 ohms, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output levels",
+   "key": "output_level",
+   "text": "0 dBm nominal, +20 dBm maximum.",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "Better than 50 dB, from 30 Hz to 20 kHz, better than 70 dB at 1 kHz.",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 70,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "-----r n-put ---aifdoilt pirt --t e r mi n-a1s designated by numbers are in phase."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "±25 volts dc, 45 rnA nominal, 60 rnA maximum.",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0 to 60 degrees Celsius.",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.6\" wide X 7\" high X 6.5\" deep. (41 mm X 178 mm X 165 mm).",
+   "quantities": [
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1975 - M495 - P002 - 1-1.jpg",
+   "page": 1
+  },
+  {
+   "file": "MANUALS/1975 - M495 - Stereo Monitor Module.pdf",
+   "page": 2
+  }
+ ]
+}
