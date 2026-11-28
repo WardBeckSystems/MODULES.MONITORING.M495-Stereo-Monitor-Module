@@ -113,6 +113,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcndLbU9wSGVNdDQ/view?resourcekey=0-catyrgU6n6GiZBkeGHhcSg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcndLbU9wSGVNdDQ&resourcekey=0-catyrgU6n6GiZBkeGHhcSg" width="240" alt="1975 - M495 - 461-03-015 - DUAL BOOSTER AMPLIFIER.jpg"></a><br><sub>1975|8 · 461-03-015 - DUAL BOOSTER AMPLIFIER · <a href="MECHANICAL/1975%20-%20M495%20-%20461-03-015%20-%20DUAL%20BOOSTER%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcmw0SENObmNzQ2M/view?resourcekey=0-k3u0FvVPYbYRyyxPyOo2Yw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcmw0SENObmNzQ2M&resourcekey=0-k3u0FvVPYbYRyyxPyOo2Yw" width="240" alt="1975 - M495 - 495-04-003 - THE ASSOC IATED LED WILL INDI- IGNA LEVE.jpg"></a><br><sub>1975|8 · 495-04-003 - THE ASSOC IATED LED WILL INDI- IGNA LEVE · <a href="MECHANICAL/1975%20-%20M495%20-%20495-04-003%20-%20THE%20ASSOC%20IATED%20LED%20WILL%20INDI-%20IGNA%20LEVE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M495.stl`](MECHANICAL/M495.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M495)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.6" wide X 7" high X 6.5" deep. (41 mm X 178 mm X 165 mm).)
+- **From the drawing:** 7 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M495 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M495.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
