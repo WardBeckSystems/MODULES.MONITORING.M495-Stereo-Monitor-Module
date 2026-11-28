@@ -1,5 +1,5 @@
 # 1975 - M495 - wbsps - module - m495 stereo monitor module_small.jpg
-Wiki page: [M495](../../../../PAGES/M495.md)
+Wiki page: [M495](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

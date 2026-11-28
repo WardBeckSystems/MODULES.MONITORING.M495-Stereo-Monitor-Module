@@ -1,5 +1,5 @@
 # 1975 - M495 - 5_101-02-003 - DUAL BOOSTER AMPLIFIER.jpg
-Wiki page: [M495](../../../../PAGES/M495.md)
+Wiki page: [M495](../)
 
 
 - **Year:** 1975 (found in this file: "DATE JAN 75")

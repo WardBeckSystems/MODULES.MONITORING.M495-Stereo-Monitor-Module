@@ -1,5 +1,5 @@
 # 1980 - 495-02-001 - STEREO MONITOR MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 3.jpg
-Wiki page: [M495](../../../../PAGES/M495.md)
+Wiki page: [M495](../)
 
 
 - **Year:** 1980 (title block date)

@@ -1,5 +1,5 @@
 # 1975 - 5-101-02-003 - 5-101B DUAL BOOSTER AMPLIFIER SCHEMATIC - DRN DM - ISS 2.jpg
-Wiki page: [M495](../../../../PAGES/M495.md)
+Wiki page: [M495](../)
 
 
 - **Year:** 1975 (title block date)

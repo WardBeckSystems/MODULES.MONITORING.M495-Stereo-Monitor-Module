@@ -1,5 +1,5 @@
 # 1978 - 495-01-001 - STEREO MONITOR MODULE FUNCTIONAL DIAGRAM - DRN MRW - ISS 1.jpg
-Wiki page: [M495](../../../../PAGES/M495.md)
+Wiki page: [M495](../)
 
 
 - **Year:** 1978 (title block date)

@@ -1,6 +1,6 @@
 # M495 Stereo Monitor Module · Monitoring
 
-Ward-Beck Systems M495, 1972|5. Wiki page: [M495 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M495.html)
+Ward-Beck Systems M495, 1972|5. Wiki page: [M495 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M495-Stereo-Monitor-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

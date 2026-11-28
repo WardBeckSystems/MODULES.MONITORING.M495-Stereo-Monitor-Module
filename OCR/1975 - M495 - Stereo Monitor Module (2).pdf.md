@@ -1,5 +1,5 @@
 # 1975 - M495 - Stereo Monitor Module (2).pdf
-Wiki page: [M495](../../../../PAGES/M495.md)
+Wiki page: [M495](../)
 
 
 - **Year:** 1975 (found in this file: "DATE FEB 75")

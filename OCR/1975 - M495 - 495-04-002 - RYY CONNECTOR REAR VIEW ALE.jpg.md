@@ -1,5 +1,5 @@
 # 1975 - M495 - 495-04-002 - RYY CONNECTOR REAR VIEW ALE.jpg
-Wiki page: [M495](../../../../PAGES/M495.md)
+Wiki page: [M495](../)
 
 
 - **Year:** 1975 (module estimate (labelled))
